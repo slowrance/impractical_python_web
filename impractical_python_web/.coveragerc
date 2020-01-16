@@ -1,0 +1,3 @@
+[run]
+source = impractical_python_web
+omit = impractical_python_web/test*
